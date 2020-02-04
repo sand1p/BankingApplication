@@ -154,6 +154,7 @@ Sometimes we need to share our credentials with our dear one's, We share it over
            
 ##  Tech stack
 ### Scala 
+### Akka
 ### Play Framework
 ### Cassandra
 ### XML
